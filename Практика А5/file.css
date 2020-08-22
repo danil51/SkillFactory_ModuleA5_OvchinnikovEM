@@ -1,0 +1,12 @@
+.buttons {
+	display: flex;
+	justify-content: flex-start;
+	margin-top: 5vw;
+}
+.create {
+	margin-right: 2vw;
+	width: 160px;
+}
+.replace {
+	width: 160px;
+}
